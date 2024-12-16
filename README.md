@@ -1,2 +1,2 @@
-# BTTfinal
-BTT Sentiment Analysis Machine Learning Project
+# breakthrough-tech-ai-ml-course-project
+Sentiment Analysis
